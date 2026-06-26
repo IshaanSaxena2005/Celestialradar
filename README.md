@@ -1,6 +1,6 @@
 # Project Zenith 🌌
 
-Project Zenith is a modern celestial radar experience built to help explorers find the best view of the sky from their current location. It combines astronomy intelligence, interactive dashboards, and an AI copilot to make every stargazing session feel like mission control.
+Project Zenith is a modern celestial radar experience built to help explorers find the best view of the sky from their current location. It combines astronomy intelligence, interactive dashboard, and an AI copilot to make every stargazing session feel like mission control.
 
 ---
 
